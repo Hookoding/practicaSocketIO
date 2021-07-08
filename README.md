@@ -1,2 +1,2 @@
-# practicaSocketIO
-Pequeño ejercicio de uso de Socket.io con NodeJS y ExpressJS
+# Ejercicio con Socket.io
+Pequeño ejercicio de chat usando Socket.io en un servidor NodeJS ejecutando una aplicacion de ExpressJS.
